@@ -1,6 +1,7 @@
-# See: <a href="https://artematrr.github.io/Web-My-First-CV/">Main Site</a> 
+# See: <a href="https://artematrr.github.io/Web-Waxom">Main Site</a>
 
-### Credits: 
+### Credits:
+
 Waxom - Free Homepage PSD Template.
 
 Fonts Used:
@@ -11,14 +12,14 @@ Roboto https://www.google.com/fonts/specimen/Roboto
 Icons Used: http://www.flaticon.com/
 Free Photo Used: https://pixabay.com/
 
-------------------------
+---
 
 Waxom - Clean & Universal PSD Template (230 psd's files) Download: http://themeforest.net/item/waxom-clean-universal-psd-template/8407963
 Waxom - Clean & Universal WordPress Theme http://themeforest.net/item/waxom-clean-universal-wordpress-theme/13639831
 
-------------------------
+---
 
 Thank you for the attention and have a nice day ;)
 
-Regards, 
+Regards,
 Dmitry (themefire).
