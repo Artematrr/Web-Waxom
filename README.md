@@ -1,5 +1,6 @@
-See: Main Site
-Credits:
+# See: <a href="https://artematrr.github.io/Web-Waxom">Main Site</a>
+
+###Credits:
 Waxom - Free Homepage PSD Template.
 
 Fonts Used: Raleway https://www.google.com/fonts/specimen/Raleway Montserrat https://www.google.com/fonts/specimen/Montserrat Roboto https://www.google.com/fonts/specimen/Roboto
@@ -11,3 +12,4 @@ Waxom - Clean & Universal PSD Template (230 psd's files) Download: http://themef
 Thank you for the attention and have a nice day ;)
 
 Regards, Dmitry (themefire).
+
