@@ -11,5 +11,5 @@ Waxom - Clean & Universal PSD Template (230 psd's files) Download: http://themef
 
 Thank you for the attention and have a nice day ;)
 
-Regards, Dmitry (themefire).
-
+Regards, 
+Dmitry (themefire).
