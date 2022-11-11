@@ -1,0 +1,228 @@
+/* Указываем box sizing */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Убираем внутренние отступы */
+ul[class],
+ol[class] {
+  padding: 0;
+}
+
+/* Убираем внешние отступы */
+body,
+h1,
+h2,
+h3,
+h4,
+p,
+ul[class],
+ol[class],
+li,
+figure,
+figcaption,
+blockquote,
+dl,
+dd {
+  margin: 0;
+}
+
+/* Выставляем основные настройки по-умолчанию для body */
+body {
+  min-height: 100vh;
+  scroll-behavior: smooth;
+  text-rendering: optimizeSpeed;
+  line-height: 1.5;
+}
+
+/* Удаляем стандартную стилизацию для всех ul и il, у которых есть атрибут class*/
+ul[class],
+ol[class] {
+  list-style: none;
+}
+
+/* Элементы a, у которых нет класса, сбрасываем до дефолтных стилей */
+a:not([class]) {
+  text-decoration-skip-ink: auto;
+}
+
+/* Упрощаем работу с изображениями */
+img {
+  max-width: 100%;
+  display: block;
+}
+
+/* Указываем понятную периодичность в потоке данных у article*/
+article > * + * {
+  margin-top: 1em;
+}
+
+/* Наследуем шрифты для инпутов и кнопок */
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+
+/* Raleway https://www.google.com/fonts/specimen/Raleway */
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+/* Montserrat https://www.google.com/fonts/specimen/Montserrat */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/* font-family: 'Montserrat', sans-serif; */
+
+/* Roboto https://www.google.com/fonts/specimen/Roboto */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+/* font-family: 'Roboto', sans-serif; */
+
+body {
+  font-family: 'Raleway', sans-serif;
+  background-color: #fbfaf8;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0px auto;
+  padding: 0px 10px;
+}
+.slider__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+ul {
+  display: flex;
+  margin: 0px -15px;
+  width: 100%;
+}
+ul > li {
+  padding: 0 10px;
+}
+.wrapper-1 {
+  background: url('Images/bg1.png') rgba(0, 0, 0, 60%);
+  background-size: cover;
+  background-blend-mode: multiply;
+  padding-block: 50px;
+}
+
+.slider {
+  color: white;
+  display: contents;
+  align-content: center;
+}
+.slider__slogan {
+  margin-top: 200px;
+  margin-bottom: 50px;
+  text-align: center;
+}
+.slider__button {
+  align-self: center;
+  margin-inline: auto;
+  margin-bottom: 150px;
+}
+
+.button {
+  display: block;
+  background-color: #998675;
+  color: white;
+  font-weight: bold;
+  font-size: smaller;
+  padding-block: 10px;
+  padding-inline: 20px;
+  border-radius: 5px;
+  border-style: none;
+  border-bottom-style: solid;
+  border-color: #998675;
+  border-bottom-color: #736357;
+}
+.button:hover {
+  background-color: #736357;
+}
+
+h1 {
+  font-size: 2.5em;
+}
+
+h2 {
+  font-weight: normal;
+}
+
+h3 {
+}
+
+/* 
+.menu {
+}
+.menu__link {
+}
+.services {
+}
+.service {
+}
+.servece__icon {
+}
+.servece__title {
+}
+.servece__text {
+}
+.ideas {
+}
+.ideas__browser {
+}
+.browser__back {
+}
+.browser__front {
+}
+.promotion {
+}
+.projects {
+}
+.filter {
+}
+.grid {
+}
+.grid__element {
+}
+.presentation {
+}
+.chrono {
+}
+.video {
+}
+.mobile {
+}
+.stats {
+}
+.stat {
+}
+.stat__count {
+}
+.stat__text {
+}
+.posts {
+}
+.posts__grid {
+}
+.partners {
+}
+.footer-grid {
+}
+.footer-grid__column-1 {
+}
+.footer-grid__rposts {
+}
+.rposts__date {
+}
+.rposts__text {
+}
+.footer-grid__our-twitter {
+}
+.footer__dribbble-widget {
+}
+.footer__menu {
+}
+.footer__credits {
+} */
