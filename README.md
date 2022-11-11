@@ -1,4 +1,4 @@
-# See: <a href="https://artematrr.github.io/Web-Waxom">Main Site</a> (or <a href="https://htmlpreview.github.io/?https://github.com/Artematrr/Web-Waxom/blob/master/index.html">this link</a>).
+# See: <a href="https://artematrr.github.io/Web-Waxom/index.html">Main Site</a> (or <a href="https://htmlpreview.github.io/?https://github.com/Artematrr/Web-Waxom/blob/master/index.html">this link</a>).
 ### Credits:
 
 Waxom - Free Homepage PSD Template.
