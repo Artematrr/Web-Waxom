@@ -1,6 +1,6 @@
 # See: <a href="https://artematrr.github.io/Web-Waxom">Main Site</a>
 
-###Credits:
+### Credits:
 Waxom - Free Homepage PSD Template.
 
 Fonts Used: Raleway https://www.google.com/fonts/specimen/Raleway Montserrat https://www.google.com/fonts/specimen/Montserrat Roboto https://www.google.com/fonts/specimen/Roboto
